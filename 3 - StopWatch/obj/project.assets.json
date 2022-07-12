@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\C#  Projects\\StopWatch\\StopWatch.csproj",
+      "projectUniqueName": "C:\\dev\\C#  Projects\\Balta.IO_C-Sharp\\3 - StopWatch\\StopWatch.csproj",
       "projectName": "StopWatch",
-      "projectPath": "C:\\dev\\C#  Projects\\StopWatch\\StopWatch.csproj",
+      "projectPath": "C:\\dev\\C#  Projects\\Balta.IO_C-Sharp\\3 - StopWatch\\StopWatch.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\C#  Projects\\StopWatch\\obj\\",
+      "outputPath": "C:\\dev\\C#  Projects\\Balta.IO_C-Sharp\\3 - StopWatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
