@@ -22,7 +22,7 @@ namespace StopWatch
                 Console.WriteLine(currentTime);
                 Thread.Sleep(1000);
 
-                Console.WriteLine("");
+                Console.WriteLine("Inserido via Web");
             }
         }
     }
